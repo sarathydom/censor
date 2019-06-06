@@ -5,6 +5,8 @@
     "version": "0.0.1",
     "description": "test npm registry",
     "main" : "censortext",
+    "repository": {"type": "git","url": "https://github.com/sarathydom/censor.git"},
+    "keywords": ["sarathy","kripa","sarathyishandsome","cuttila"],
     "dependencies": {},
     "engines": {"node":"*"} 
 }

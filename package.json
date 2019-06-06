@@ -1,0 +1,10 @@
+{
+    "author": "parthasarathy",
+
+    "name" : "censor",
+    "version": "0.0.1",
+    "description": "test npm registry",
+    "main" : "censortext",
+    "dependencies": {},
+    "engines": {"node":"*"} 
+}
